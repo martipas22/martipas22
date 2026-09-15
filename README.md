@@ -1,5 +1,12 @@
 ## Hi there 👋
+# Hi there
 
+I'm Martí, a final-year Mathematical Engineering in Data Science student at Pompeu Fabra University, recently back in Barcelona after an exchange at Chalmers and the University of Gothenburg.
+
+- Interested in machine learning, computational biology and neuroscience.
+- Currently working on connectomics and synaptic connectivity modelling.
+- Experience with Python, C/C++, Java, PyTorch and scikit-learn.
+- Interested in applying AI to scientific and biomedical problems.
 <!--
 **martipas22/martipas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
