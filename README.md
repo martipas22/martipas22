@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi there
+# Hi there 👋
 
 I'm Martí, a final-year Mathematical Engineering in Data Science student at Pompeu Fabra University, recently back in Barcelona after an exchange at Chalmers and the University of Gothenburg.
 
